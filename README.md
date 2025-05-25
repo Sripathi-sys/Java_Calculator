@@ -1,23 +1,26 @@
-<<<<<<< HEAD
-## Getting Started
+# Java Swing Calculator
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+This is a simple calculator application built using **Java Swing**. It provides a user-friendly graphical interface for performing basic arithmetic operations such as addition, subtraction, multiplication, and division.
 
-## Folder Structure
+## ✨ Features
 
-The workspace contains two folders by default, where:
+- Basic arithmetic operations (`+`, `-`, `×`, `÷`)
+- Clear and delete functionality
+- Sign toggle (`+/-`)
+- Responsive GUI using Java Swing
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## 🛠 Technologies Used
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+- Java (JDK 8 or higher)
+- Java Swing for the graphical user interface (GUI)
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+## 📷 Screenshots
 
-## Dependency Management
+> *(Add screenshots of your calculator GUI here if available)*
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
-=======
-# Java_Calculator
-A calculation developed using java swing GUI   
->>>>>>> 7369ac0ea77b5b186c11812193f129a4fb9b8fb4
+## 🚀 How to Run
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Sripathi-sys/Java_Calculator.git
+   cd Java_Calculator
